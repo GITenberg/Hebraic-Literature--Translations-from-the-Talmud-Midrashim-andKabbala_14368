@@ -1,0 +1,27 @@
+_repo: Hebraic-Literature--Translations-from-the-Talmud-Midrashim-andKabbala_14368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Harris, Maurice H. (Maurice Henry)
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '37619'
+    url: http://www.gutenberg.org/2009/agents/37619
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2004-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hebrew literature -- Translations into English'
+- !lcc 'BM'
+title: Hebraic Literature; Translations from the Talmud, Midrashim and Kabbala
+url: http://www.gutenberg.org/ebooks/14368
