@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37619'
     url: http://www.gutenberg.org/2009/agents/37619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14368#Hebraic-Literature--Translations-from-the-Talmud-Midrashim-andKabbala
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2004-12-16'
 gutenberg_type: Text
